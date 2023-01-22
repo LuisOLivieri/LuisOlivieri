@@ -3,7 +3,7 @@
 <img src="https://github.com/LuisOLivieri/LuisOlivieri/blob/main/imagens%20logo/lu%C3%ADs%20olivieri%20(2).png?raw=true" width="100%" height="auto">
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luisolivieri&show_icons=true&count_private=true&hide_border=true&title_color=00bfff&icon_color=00bfff&text_color=c9d1d9&bg_color=0d1117" alt="Luis github stats" /> 
+  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luisolivieri&show_icons=true&count_private=true&hide_border=true&title_color=00bfff&icon_color=00bfff&text_color=c9d1d9&bg_color=0d1117" alt="Luis github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisolivieri&layout=compact&hide_border=true&title_color=00bfff&text_color=ffffff&bg_color=0d1117" />
 </div>
 
