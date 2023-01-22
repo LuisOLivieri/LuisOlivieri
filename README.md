@@ -1,12 +1,14 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=header"/>
 
-### Olá eu sou o Luís Olivieri! ✌️
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Luís+Olivieri;SEJA+BEM-VINDO!+:%29)](https://git.io/typing-svg)
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luís-olivieri-512005230/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuisOLivieri)
 
-![Luis GitHub stats](https://github-readme-stats.vercel.app/api?username=luisolivieri&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisolivieri)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luisolivieri&show_icons=true&count_private=true&hide_border=true&title_color=00bfff&icon_color=00bfff&text_color=c9d1d9&bg_color=0d1117" alt="Luis github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisolivieri&layout=compact&hide_border=true&title_color=00bfff&text_color=ff91a4&bg_color=0d1117" />
+</div>
+
 
 ### TECNOLOGIAS QUE USO/ESTUDO:
 
@@ -18,3 +20,6 @@
 </div><br>
 
 ### Voltando a caminhar na área da tecnologia... 
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luís-olivieri-512005230/)
+[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuisOLivieri)
