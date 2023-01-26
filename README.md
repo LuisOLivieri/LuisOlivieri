@@ -30,4 +30,6 @@ Minhas redes socias:
 <br>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=footer">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisolivieri&hide=contribs,prs)
