@@ -1,36 +1,47 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=header"/>
+<div>
+  
+  <h1 align="center">
+    Oi, tudo bem? Eu sou o
+    <a href="https://www.linkedin.com/in/luís-olivieri-512005230/)">Luis Olivieri</a>
+  </h1>
+  
+  <p align="center">
+    Estou começando a estudar Desenvolvimento Web. Tenho uma meta de todo os dias, postar um novo projeto no repositório. 
+    </a>  
+  </p>
+<p align="center">
+  
+</p>  
 
-<img src="https://github.com/LuisOLivieri/LuisOlivieri/blob/main/imagens%20logo/lu%C3%ADs%20olivieri%20(2).png?raw=true" width="100%" height="auto">
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luisolivieri&show_icons=true&count_private=true&hide_border=true&title_color=00bfff&icon_color=00bfff&text_color=c9d1d9&bg_color=0d1117" alt="Luis github stats" /> 
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisolivieri&layout=compact&hide_border=true&title_color=00bfff&text_color=ffffff&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=LuisOlivieri&bg_color=0d1117&color=00bfff&line=00bfff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-### TECNOLOGIAS QUE USO/ESTUDO ATUALMENTE:
-
-<div style="display: none"><br>
-    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-</div><br>
-
-Minhas redes socias: 
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luís-olivieri-512005230/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LuisOLivieri)
 
 <div align="center">
-<br><p align="center"><b>Número de Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{luisolivieri}/count.svg" /></p> 
-<br>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=luisolivieri&count_private=true&include_all_commits=true&show_icons=true&theme=highcontrast&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisolivieri&theme=highcontrast&hide_border=false&&layout=compact"/>
+  </a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=120&section=footer">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisolivieri&hide=contribs,prs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisolivieri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=luisolivieri&bg_color=0d1117&color=ffffff&line=fbff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<h1 align="center">
+ Troféus Github 
+  </h1>
+  <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=luisolivieri&theme=juicyfresh&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  </div>
+
+<div align="center" valign="top"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ 
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ 
+</div><br>
+
+<div align="center">
+  <a href="https://www.instagram.com/betinhoolivieri/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/edududuribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </a>
+</div>
