@@ -21,18 +21,10 @@
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=luisolivieri&bg_color=0d1117&color=ffffff&line=fbff00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h1 align="center">
- Troféus Github 
-  </h1>
-  <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=luisolivieri&theme=juicyfresh&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-  </div>
 
 <div align="center" valign="top"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- 
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
