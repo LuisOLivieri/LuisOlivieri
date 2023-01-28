@@ -16,7 +16,7 @@
 </div>
 
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=luisolivieri&bg_color=0d1117&color=fded00&line=fded00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
  
@@ -34,6 +34,6 @@
 
 <div align="center">
   
-  <a href="https://www.linkedin.com/in/edududuribeiro/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/luís-olivieri-512005230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </a>
 </div>
