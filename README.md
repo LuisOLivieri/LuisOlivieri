@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Estou começando a estudar Desenvolvimento Web. Tenho uma meta de todo os dias, postar um novo projeto no repositório. 
+    Estudande de Análise e Desenvolvimento de Sistemas.  
     </a>  
   </p>
   
