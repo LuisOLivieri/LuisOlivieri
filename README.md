@@ -1,10 +1,5 @@
 <div>
   
-  <h1 align="center">
-    Oi, tudo bem? Eu sou o
-    <a href="https://www.linkedin.com/in/luís-olivieri-512005230/)">Luis Olivieri</a>
-  </h1>
-  
   <p align="center">
     Estudande de Análise e Desenvolvimento de Sistemas.  
     </a>  
@@ -16,7 +11,6 @@
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=luisolivieri&bg_color=0d1117&color=fded00&line=fded00&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
  
