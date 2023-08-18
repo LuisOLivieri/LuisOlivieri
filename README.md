@@ -1,7 +1,7 @@
 <div>
   
   <p align="center">
-    Estudande de Análise e Desenvolvimento de Sistemas.  
+    Estudante de Análise e Desenvolvimento de Sistemas com foco em Backend - Linguagem Prefeida: Java. 
     </a>  
   </p>
   
