@@ -2,6 +2,7 @@
   
   <p align="center">
     Estudante de Análise e Desenvolvimento de Sistemas com foco em Backend - Linguagem Prefeida: Java. 
+    Irei postar todos meus projetos e exercicios resolvidos em aula.
     </a>  
   </p>
   
